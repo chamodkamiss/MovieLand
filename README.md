@@ -12,6 +12,8 @@ MovieLand is a simple React application that allows users to search for movies u
 
 ### Demo
 
+![image](https://github.com/user-attachments/assets/be32c8f3-079b-4747-b7f9-7463db9a1322)
+
 
 ### Technology Used
 
@@ -44,7 +46,5 @@ This project uses the OMDb API to fetch movie data. You will need to sign up for
 - OMDb API for providing movie data
 - React for the UI library
 
-OMDb API for providing movie data
-React for the UI library
 
 
